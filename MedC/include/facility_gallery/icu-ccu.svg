@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">ICU and CCU illustration</title>
+  <desc id="desc">Modern intensive care bed with vital monitor.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#eef9ff"/>
+      <stop offset="100%" stop-color="#d7f1ff"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2aa9d7"/>
+      <stop offset="100%" stop-color="#2371c7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="720" fill="url(#bg)"/>
+  <circle cx="1025" cy="132" r="96" fill="#ffffff" opacity="0.38"/>
+  <circle cx="170" cy="585" r="148" fill="#ffffff" opacity="0.25"/>
+  <rect x="80" y="70" width="1040" height="580" rx="42" fill="#ffffff" opacity="0.9"/>
+  <g transform="translate(250 170)">
+    <rect x="420" y="24" width="200" height="144" rx="22" fill="#eff8ff" stroke="#d7ebfb" stroke-width="8"/>
+    <path d="M455 115 h38 l28-52 34 88 28-52 30 0" fill="none" stroke="#2d7dd8" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="575" cy="56" r="11" fill="#24b36b"/>
+    <rect x="120" y="210" width="420" height="126" rx="36" fill="url(#accent)"/>
+    <rect x="92" y="150" width="42" height="235" rx="20" fill="#2a7dc9"/>
+    <rect x="520" y="178" width="26" height="210" rx="13" fill="#2a7dc9"/>
+    <rect x="160" y="180" width="150" height="80" rx="24" fill="#ffffff" opacity="0.94"/>
+    <rect x="115" y="338" width="34" height="64" rx="14" fill="#43617b"/>
+    <rect x="485" y="338" width="34" height="64" rx="14" fill="#43617b"/>
+    <rect x="196" y="272" width="220" height="38" rx="18" fill="#6fd4f1" opacity="0.75"/>
+    <circle cx="90" cy="108" r="58" fill="#ffffff" stroke="#d7ebfb" stroke-width="8"/>
+    <rect x="73" y="89" width="34" height="9" rx="4" fill="#2a7dc9"/>
+    <rect x="85" y="77" width="10" height="34" rx="4" fill="#2a7dc9"/>
+  </g>
+</svg>

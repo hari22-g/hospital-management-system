@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Irritable Bowel Syndrome infographic</title>
+  <desc id="desc">Illustration showing bowel loops and abdominal pain or bloating.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f4fff9"/>
+      <stop offset="100%" stop-color="#daf6e7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="720" fill="url(#bg)"/>
+  <rect x="80" y="70" width="1040" height="580" rx="38" fill="#ffffff" opacity="0.95"/>
+  <text x="130" y="160" fill="#1d7b57" font-family="Arial, sans-serif" font-size="50" font-weight="700">Irritable Bowel Syndrome</text>
+  <text x="130" y="220" fill="#4d9778" font-family="Arial, sans-serif" font-size="28">A long-term bowel condition with pain and bowel changes</text>
+  <g transform="translate(720 128)">
+    <rect x="40" y="44" width="280" height="280" rx="36" fill="#effcf5" stroke="#cfeedd" stroke-width="8"/>
+    <path d="M120 116 c-24 0 -44 18 -44 42 v26 c0 20 16 36 36 36 h124 c18 0 32 14 32 32 v18 c0 24 -18 44 -42 44" fill="none" stroke="#2fb073" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M236 116 c24 0 44 18 44 42 v26 c0 20 -16 36 -36 36 h-124 c-18 0 -32 14 -32 32 v18 c0 24 18 44 42 44" fill="none" stroke="#63c18f" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g transform="translate(150 328)">
+    <text x="0" y="0" fill="#1d7b57" font-family="Arial, sans-serif" font-size="30" font-weight="700">Typical symptoms</text>
+    <text x="0" y="58" fill="#4d9778" font-family="Arial, sans-serif" font-size="24">• Abdominal pain or cramping</text>
+    <text x="0" y="100" fill="#4d9778" font-family="Arial, sans-serif" font-size="24">• Bloating and excess gas</text>
+    <text x="0" y="142" fill="#4d9778" font-family="Arial, sans-serif" font-size="24">• Diarrhea, constipation, or both</text>
+  </g>
+</svg>

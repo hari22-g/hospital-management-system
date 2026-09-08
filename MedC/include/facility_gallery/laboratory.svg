@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Laboratory illustration</title>
+  <desc id="desc">Laboratory microscope with flasks and clean counters.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f7f3ff"/>
+      <stop offset="100%" stop-color="#e6deff"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7b68ee"/>
+      <stop offset="100%" stop-color="#4b63da"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="720" fill="url(#bg)"/>
+  <circle cx="1030" cy="125" r="96" fill="#ffffff" opacity="0.36"/>
+  <circle cx="155" cy="575" r="140" fill="#ffffff" opacity="0.28"/>
+  <rect x="80" y="70" width="1040" height="580" rx="42" fill="#ffffff" opacity="0.92"/>
+  <path d="M170 505 h860" fill="none" stroke="#d5dbf8" stroke-width="14" stroke-linecap="round"/>
+  <g transform="translate(230 150)">
+    <rect x="410" y="320" width="270" height="28" rx="14" fill="#5f7ce3"/>
+    <path d="M515 90 l86 0 0 24 -38 56 62 110 -60 0 -48-87 -70 100 -72 0 90-132 -34-47 0-24 84 0" fill="url(#accent)"/>
+    <rect x="528" y="270" width="54" height="62" rx="14" fill="#5f7ce3"/>
+    <rect x="475" y="344" width="164" height="24" rx="12" fill="#4b5d8b"/>
+    <rect x="228" y="214" width="88" height="172" rx="20" fill="#eef2ff" stroke="#cad8fb" stroke-width="8"/>
+    <path d="M248 234 v108 c0 16 13 30 30 30 h0 c17 0 30-14 30-30 v-108z" fill="#7bd7f5"/>
+    <rect x="360" y="186" width="88" height="200" rx="20" fill="#eef2ff" stroke="#cad8fb" stroke-width="8"/>
+    <path d="M380 208 v124 c0 18 14 34 32 34 h0 c18 0 32-16 32-34 v-124z" fill="#a493ff"/>
+    <circle cx="838" cy="110" r="44" fill="#f1f5ff" stroke="#d8e5fb" stroke-width="8"/>
+    <circle cx="838" cy="110" r="18" fill="#7b68ee"/>
+  </g>
+</svg>

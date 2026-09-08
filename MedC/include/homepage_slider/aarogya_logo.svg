@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 820" role="img" aria-labelledby="title desc">
+  <title id="title">AAROGYA logo</title>
+  <desc id="desc">AAROGYA brand mark with a magenta heart outline, red medical cross, and bold wordmark.</desc>
+  <defs>
+    <linearGradient id="brandMagenta" x1="124" y1="124" x2="874" y2="684" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#cf1e73"/>
+      <stop offset="0.55" stop-color="#b81f74"/>
+      <stop offset="1" stop-color="#d63388"/>
+    </linearGradient>
+    <linearGradient id="brandRed" x1="384" y1="216" x2="672" y2="504" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff2a2a"/>
+      <stop offset="1" stop-color="#ea1626"/>
+    </linearGradient>
+    <filter id="softShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#9d115d" flood-opacity="0.16"/>
+    </filter>
+  </defs>
+
+  <g fill="none" stroke="url(#brandMagenta)" stroke-width="28" stroke-linecap="round" stroke-linejoin="round" filter="url(#softShadow)">
+    <path d="M512 212C451 124 367 76 262 76C149 76 71 160 80 276C89 388 166 500 336 610"/>
+    <path d="M512 212C573 124 657 76 762 76C875 76 953 160 944 276C935 388 858 500 688 610"/>
+  </g>
+
+  <path fill="url(#brandRed)" filter="url(#softShadow)" d="M468 226c0-12 10-22 22-22h56c12 0 22 10 22 22v126h126c12 0 22 10 22 22v56c0 12-10 22-22 22H568v126c0 12-10 22-22 22h-56c-12 0-22-10-22-22V452H342c-12 0-22-10-22-22v-56c0-12 10-22 22-22h126V226z"/>
+
+  <text x="512" y="760" text-anchor="middle" fill="url(#brandMagenta)" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="174" font-weight="700" letter-spacing="1">AAROGYA</text>
+</svg>

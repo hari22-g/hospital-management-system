@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Influenza infographic</title>
+  <desc id="desc">Illustration showing flu symptoms with lungs and a thermometer.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f2f8ff"/>
+      <stop offset="100%" stop-color="#dcecff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="720" fill="url(#bg)"/>
+  <rect x="80" y="70" width="1040" height="580" rx="38" fill="#ffffff" opacity="0.95"/>
+  <text x="130" y="165" fill="#234b8e" font-family="Arial, sans-serif" font-size="54" font-weight="700">Influenza</text>
+  <text x="130" y="225" fill="#5e7aa8" font-family="Arial, sans-serif" font-size="28">Common flu affecting the respiratory system</text>
+  <g transform="translate(700 150)">
+    <path d="M110 80 c-52 0 -84 42 -84 92 0 52 34 98 72 121 l12 -33 c-22 -18 -39 -44 -39 -82 0 -33 18 -57 39 -69z" fill="#6aa5ff"/>
+    <path d="M156 80 c52 0 84 42 84 92 0 52 -34 98 -72 121 l-12 -33 c22 -18 39 -44 39 -82 0 -33 -18 -57 -39 -69z" fill="#4b83db"/>
+    <rect x="120" y="18" width="28" height="94" rx="14" fill="#3d6fc3"/>
+  </g>
+  <g transform="translate(150 320)">
+    <circle cx="104" cy="84" r="66" fill="#e8f1ff"/>
+    <rect x="92" y="46" width="24" height="88" rx="12" fill="#ff6c6c"/>
+    <circle cx="104" cy="142" r="28" fill="#ff6c6c"/>
+    <text x="210" y="62" fill="#234b8e" font-family="Arial, sans-serif" font-size="30" font-weight="700">Typical signs</text>
+    <text x="210" y="112" fill="#486895" font-family="Arial, sans-serif" font-size="24">• Fever and chills</text>
+    <text x="210" y="154" fill="#486895" font-family="Arial, sans-serif" font-size="24">• Dry cough and sore throat</text>
+    <text x="210" y="196" fill="#486895" font-family="Arial, sans-serif" font-size="24">• Body aches and fatigue</text>
+  </g>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Insomnia infographic</title>
+  <desc id="desc">Illustration showing sleeplessness, moon, and a bedside clock.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#eef1ff"/>
+      <stop offset="100%" stop-color="#dcdfff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="720" fill="url(#bg)"/>
+  <rect x="80" y="70" width="1040" height="580" rx="38" fill="#ffffff" opacity="0.95"/>
+  <text x="130" y="165" fill="#3e4d97" font-family="Arial, sans-serif" font-size="54" font-weight="700">Insomnia</text>
+  <text x="130" y="225" fill="#6776b3" font-family="Arial, sans-serif" font-size="28">Difficulty falling asleep or staying asleep</text>
+  <g transform="translate(720 130)">
+    <circle cx="140" cy="110" r="74" fill="#dbe4ff"/>
+    <circle cx="172" cy="96" r="62" fill="#ffffff"/>
+    <circle cx="280" cy="86" r="12" fill="#8393d4"/>
+    <circle cx="330" cy="128" r="9" fill="#8393d4"/>
+    <rect x="46" y="260" width="280" height="98" rx="24" fill="#7b8ee3"/>
+    <rect x="26" y="230" width="86" height="90" rx="24" fill="#aebcf4"/>
+    <rect x="110" y="352" width="22" height="76" rx="10" fill="#5466ab"/>
+    <rect x="254" y="352" width="22" height="76" rx="10" fill="#5466ab"/>
+    <circle cx="394" cy="294" r="58" fill="#f6f8ff" stroke="#d8defb" stroke-width="8"/>
+    <line x1="394" y1="294" x2="394" y2="258" stroke="#5466ab" stroke-width="8" stroke-linecap="round"/>
+    <line x1="394" y1="294" x2="424" y2="308" stroke="#5466ab" stroke-width="8" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(150 330)">
+    <text x="0" y="0" fill="#3e4d97" font-family="Arial, sans-serif" font-size="30" font-weight="700">What people notice</text>
+    <text x="0" y="58" fill="#6776b3" font-family="Arial, sans-serif" font-size="24">• Trouble falling asleep at night</text>
+    <text x="0" y="100" fill="#6776b3" font-family="Arial, sans-serif" font-size="24">• Waking up often or too early</text>
+    <text x="0" y="142" fill="#6776b3" font-family="Arial, sans-serif" font-size="24">• Tiredness, poor focus, and irritability in daytime</text>
+  </g>
+</svg>

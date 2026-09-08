@@ -1,0 +1,7 @@
+INSERT INTO `patient` (`pid`, `firstname`, `lastname`, `dob`, `gender`, `height`, `weight`, `bloodgroup`, `contact_no`, `state`, `country`, `email`, `password`) VALUES
+(16, 'Aarav', 'Sharma', '2025-01-05',, 'male', '164', '85', 'O+', '9393939393', 'Gujarat', 'India', 'aarav.sharma@example.com', '$2y$10$M9a5v777/qNEj.j310vBie9C7BoOC5pkMF8i50KmOQTEYFv3x794m'),
+(17, 'Priya', 'Patel','2025-02-05', 'Female','164', '85', 'O+', '9393939393', 'Gujarat', 'India', 'priya.patel@example.com', '$2y$10$NighYZ7Jup/.NC8EaXR/huoWtyDMQsUpFp6IChSpL8OXA/DZmiR2G'),
+(18, 'Rohan', 'Singh','2025-03-05', 'Male', '164', '85', 'O+', '9393939393', 'Gujarat', 'India', 'rohan.singh@example.com', '$2y$10$.Fr81fY3WUf9KBKPDebmEuQEuow/ZEi2Ae8/a9IUa7j7hEKXvcMEW'),
+(19, 'Ananya', 'Reddy','2025-04-05', 'Female', '164', '85', 'O+', '9393939393', 'Gujarat', 'India', 'ananya.reddy@example.com', '$2y$10$rOYOPopBWZHVmm90ZzGuuO0WxdJmKrzGKCCY.MuSP2MPQAyfsE5q2'),
+(20, 'Vikram', 'Kumar','2025-04-05', 'Male', '164', '85', 'O+', '9393939393', 'Gujarat', 'India', 'vikram.kumar@example.com', '$2y$10$ZfIUiKf3bECDds/RZfqPyuzKxELQjQY47HE52pV0mtz6hViC2UqSy'),
+(21, 'Neha', 'Gupta','2025-05-05', 'Female', '164', '85', 'O+', '9393939393', 'Gujarat', 'India', 'neha.gupta@example.com', '$2y$10$Fpj/fKWy3EidGBtOEhvld.8kVqIJ7.p7fZtyiYDAASvFykaX4sfgW');

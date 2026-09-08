@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Infectious Mononucleosis infographic</title>
+  <desc id="desc">Illustration highlighting sore throat, fever, and swollen glands.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff3f7"/>
+      <stop offset="100%" stop-color="#ffdce8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="720" fill="url(#bg)"/>
+  <rect x="80" y="70" width="1040" height="580" rx="38" fill="#ffffff" opacity="0.95"/>
+  <text x="130" y="145" fill="#a13e63" font-family="Arial, sans-serif" font-size="50" font-weight="700">Infectious Mononucleosis</text>
+  <text x="130" y="205" fill="#b96b89" font-family="Arial, sans-serif" font-size="28">Viral illness often causing sore throat and fatigue</text>
+  <g transform="translate(720 130)">
+    <circle cx="150" cy="150" r="110" fill="#ffe8ef"/>
+    <rect x="126" y="88" width="48" height="128" rx="24" fill="#a13e63"/>
+    <circle cx="108" cy="220" r="26" fill="#c85d84"/>
+    <circle cx="192" cy="220" r="26" fill="#c85d84"/>
+    <rect x="114" y="236" width="72" height="36" rx="18" fill="#f6b3c8"/>
+  </g>
+  <g transform="translate(150 318)">
+    <text x="0" y="0" fill="#a13e63" font-family="Arial, sans-serif" font-size="30" font-weight="700">Common features</text>
+    <text x="0" y="58" fill="#a96d82" font-family="Arial, sans-serif" font-size="24">• Severe sore throat and swollen tonsils</text>
+    <text x="0" y="100" fill="#a96d82" font-family="Arial, sans-serif" font-size="24">• Fever and swollen neck glands</text>
+    <text x="0" y="142" fill="#a96d82" font-family="Arial, sans-serif" font-size="24">• Marked tiredness that can last for weeks</text>
+  </g>
+</svg>

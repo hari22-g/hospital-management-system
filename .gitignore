@@ -1,0 +1,16 @@
+# Local credentials and private configuration
+MedC/admin_credentials.txt
+MedC/admin_info.txt
+
+# Local database and runtime files
+*.sql.bak
+*.log
+
+# Editor and operating-system files
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+
+# Local tooling metadata
+.qoder/

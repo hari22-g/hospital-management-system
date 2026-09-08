@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Jejunitis infographic</title>
+  <desc id="desc">Illustration showing inflammation of the small intestine.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f4fff7"/>
+      <stop offset="100%" stop-color="#dff4e8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="720" fill="url(#bg)"/>
+  <rect x="80" y="70" width="1040" height="580" rx="38" fill="#ffffff" opacity="0.95"/>
+  <text x="130" y="165" fill="#237756" font-family="Arial, sans-serif" font-size="54" font-weight="700">Jejunitis</text>
+  <text x="130" y="225" fill="#5a9a7e" font-family="Arial, sans-serif" font-size="28">Inflammation involving the jejunum in the small intestine</text>
+  <g transform="translate(740 130)">
+    <rect x="26" y="34" width="260" height="260" rx="34" fill="#effcf4" stroke="#d5ecde" stroke-width="8"/>
+    <path d="M102 92 c-24 0 -42 18 -42 40 v24 c0 18 14 32 32 32 h122 c16 0 28 12 28 28 v18 c0 20 -16 38 -38 38" fill="none" stroke="#2ca96e" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M222 92 c24 0 42 18 42 40 v24 c0 18 -14 32 -32 32 h-122 c-16 0 -28 12 -28 28 v18 c0 20 16 38 38 38" fill="none" stroke="#66c493" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g transform="translate(150 332)">
+    <text x="0" y="0" fill="#237756" font-family="Arial, sans-serif" font-size="30" font-weight="700">Symptoms may include</text>
+    <text x="0" y="58" fill="#5a9a7e" font-family="Arial, sans-serif" font-size="24">• Cramping abdominal pain</text>
+    <text x="0" y="100" fill="#5a9a7e" font-family="Arial, sans-serif" font-size="24">• Diarrhea, bloating, or nausea</text>
+    <text x="0" y="142" fill="#5a9a7e" font-family="Arial, sans-serif" font-size="24">• Weakness if inflammation lasts for long</text>
+  </g>
+</svg>
